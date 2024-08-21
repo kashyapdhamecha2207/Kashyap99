@@ -1,3 +1,4 @@
 # Kashyap99
 This is my first repository.
-Author - KASHYAP DHAMECHA
+
+Author - KASHYAP (Coding Gita)
